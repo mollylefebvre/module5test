@@ -4,4 +4,6 @@ commit 1
 
 commit 2
 
-commit 1 second branche
+commit 1 second branch
+
+commit 2 second branch
