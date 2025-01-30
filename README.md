@@ -4,4 +4,6 @@ commit 1 second branch test
 
 commit 2 second branch test
 
-test
+commit 3 
+
+commit 4
